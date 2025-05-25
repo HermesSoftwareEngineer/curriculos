@@ -2,10 +2,33 @@
 
 **Desenvolvedor Front-End**
 
-📧 eng_hermes@gmail.com | 📱 (85) 91234-5678 | 📍 Fortaleza, CE  
-[LinkedIn](https://linkedin.com/in/hermesbarbosa) | [Portfólio](https://my-first-landing-page-hazel.vercel.app) | [YouTube](https://youtube.com/@hermesbarbosa)
+Já trabalhei com gestão de pessoas e liderança em projetos administrativos, aprimorando minhas habilidades de liderança e trabalho em equipe. Também atuo como desenvolvedor nos últimos 3 meses, trabalhando como freelancer. Domino tecnologias como **JavaScript (ES6), React, Node, Tailwindcss e Botstraap.**
 
----
+<div style="display:flex; flex-direction:row;">
+ <div style="width:50%; padding:10px;">
+ Conteúdo da coluna 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ </div>
+ <div style="width:50%; padding:10px;">
+ Conteúdo da coluna 2. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.
+ </div>
+</div>
+
+### Links de Contato
+<!-- **Portifólio:**  -->
+**Linkedin:** https://www.linkedin.com/in/hermes-barbosa-78840118a/
+**GitHub:** https://github.com/HermesSoftwareEngineer
+**Contato:** (85) 99668-8778
+**Email:** dev.hbp@gmail.com
+
+### Tecnologias
+<!-- Colocar na ordem de prioridade que encontrar na descrição da vaga -->
+- *JavaScript (ES6)*
+- *React*
+- *Tailwindcss*
+- *Botstraap*
+- *Node*
+
+--- 
 
 ## 🧩 Resumo Profissional
 
@@ -48,3 +71,5 @@ Digital College – Concluído (2024)
 - **Linguagens e frameworks**: HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS  
 - **Ferramentas e bibliotecas**: Git, GitHub, React Router, Axios, Vite, Figma  
 - **Práticas**: Design Responsivo, Acessibilidade Web, Consumo de APIs REST, Versionamento de Código, Deploy com Vercel
+
+  Seu texto aqui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.
